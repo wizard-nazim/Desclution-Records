@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordManagerApi", "RecordManagerApi.csproj", "{A89BE358-5DF1-4390-AE5B-D652721FC333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89BE358-5DF1-4390-AE5B-D652721FC333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89BE358-5DF1-4390-AE5B-D652721FC333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89BE358-5DF1-4390-AE5B-D652721FC333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89BE358-5DF1-4390-AE5B-D652721FC333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B49BFA5F-799F-4C69-9F21-5881ED748501}
+	EndGlobalSection
+EndGlobal
